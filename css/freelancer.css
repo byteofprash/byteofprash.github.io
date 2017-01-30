@@ -22,6 +22,11 @@ a.active {
   color: #EFE8D3;
   outline: none;
 }
+a.portfolio{
+color: indianred;
+outline:none;
+
+}
 h1,
 h2,
 h3,
