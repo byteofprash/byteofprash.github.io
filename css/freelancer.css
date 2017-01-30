@@ -313,9 +313,9 @@ footer .footer-below {
   background-color: #233140;
 }
 .btn-outline {
-  color: white;
+  color: indianred;
   font-size: 20px;
-  border: solid 2px white;
+  border: solid 2px indianred;
   background: transparent;
   transition: all 0.3s ease-in-out;
   margin-top: 15px;
@@ -325,8 +325,8 @@ footer .footer-below {
 .btn-outline:active,
 .btn-outline.active {
   color: #EFE8D3;
-  background: white;
-  border: solid 2px white;
+  background: black;
+  border: solid 2px black;
 }
 .btn-primary {
   color: white;
@@ -503,4 +503,9 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+
+.quote {
+font-family: 'Gentium Basic', serif;
+font-size: 2em;
 }
