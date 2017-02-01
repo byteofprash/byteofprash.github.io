@@ -22,7 +22,7 @@ a.active {
   color: #EFE8D3;
   outline: none;
 }
-a.portfolio{
+a .portfolio{
 color: indianred;
 outline:none;
 
@@ -513,4 +513,9 @@ fieldset[disabled] .btn-success.active {
 .quote {
 font-family: 'Gentium Basic', serif;
 font-size: 2em;
+}
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
 }
