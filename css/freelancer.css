@@ -22,11 +22,14 @@ a.active {
   color: #EFE8D3;
   outline: none;
 }
-a .portfolio{
+/*a:hover .portfolio,
+a:focus .portfolio,
+a:active .portfolio,*/
+.portfolio{
 color: indianred;
 outline:none;
-
 }
+
 h1,
 h2,
 h3,
