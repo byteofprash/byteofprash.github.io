@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/byteofprash
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://byteofprash.com
+  * I am byteofprash (https://keybase.io/byteofprash) on keybase.
+  * I have a public key ASCZxPFm-vA33lpYYoV4fFCZAVPVQvtUaOhD5xo2VvpJJgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012099c4f166faf037de5a586285787c50990153d542fb5468e843e71a3656fa49260a",
+      "host": "keybase.io",
+      "kid": "012099c4f166faf037de5a586285787c50990153d542fb5468e843e71a3656fa49260a",
+      "uid": "ed768e47939787567f1d9f1311ece819",
+      "username": "byteofprash"
+    },
+    "merkle_root": {
+      "ctime": 1535743786,
+      "hash": "aabdcd73ad0e12a24f7e8c95e5d386710b8753d743bfece633b23be3b9b722d5311f1877e6dc65a77af853f088a4b968373ea4b8ebeecc460bc5988e4ec5c3f7",
+      "hash_meta": "07aec0f5262240c70204100db9f7afb7e58b54d3d584bf13974c2685076ff040",
+      "seqno": 3545666
+    },
+    "service": {
+      "entropy": "go1um1JLaWOsoRWQ6/6xxAEQ",
+      "hostname": "byteofprash.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.1"
+  },
+  "ctime": 1535743839,
+  "expire_in": 504576000,
+  "prev": "8328e7749148d79e499dbaff77270578648a67eb720b780a7d4fd4372aa3782d",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmcTxZvrwN95aWGKFeHxQmQFT1UL7VGjoQ+caNlb6SSYKp3BheWxvYWTESpcCBsQggyjndJFI155Jnbr/dycFeGSKZ+tyC3gKfU/UNyqjeC3EIPts+2u3hrBFnhpOYQl2P2QMOSty7WWXGdQUm2tyoW1bAgHCo3NpZ8RA1uXwH8vJTz87t8YWSbXrSHvR0jif18UC+OmEuZyQ/i3WrGZ69xwDHSqo5B+qQ7MTNHsrJkc+Y4+ws+6C22RjA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILaavuA5574npIvTT+v2NqTE6U20Ebk2EjfAFsGdYpfro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/byteofprash
+
+==================================================================
